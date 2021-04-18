@@ -6,6 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "scripts":{
+    "starts":"node index.js"
+  }
   "author": "Kylian SW",
   "license": "ISC",
   "dependencies": {
